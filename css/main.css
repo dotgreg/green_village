@@ -153,6 +153,14 @@ h1,h2,h3 {
 }
 
 
+.row.photos {
+    margin-top: 50px;
+}
+
+.thumbnail {
+    margin-bottom: 30px;
+}
+
 
 
 
